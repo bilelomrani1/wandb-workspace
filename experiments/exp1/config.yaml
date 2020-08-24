@@ -1,0 +1,22 @@
+################ Config file for experiment ################
+
+# Tags of the run
+# tags: 
+#  - tag1
+#  - tag2
+tags:
+
+# Group of the run
+# group: group1
+group:
+
+# Job type of the run
+# job_type: job_type1
+job_type:
+
+
+#### Config hyperparameters ####
+# config:
+#   lr: 0.01
+#   epochs: 10
+config:
